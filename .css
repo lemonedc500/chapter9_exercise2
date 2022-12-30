@@ -1,0 +1,17 @@
+*{
+ margin:0;
+ padding:0;
+ box-sizing:border-box;
+}
+
+.header-line{
+ height:50px;
+ width:100%;
+ background-color:#FF9A4B;
+}
+
+.main{
+ width:960px;
+ margin:50px auto;
+ display:flex;
+}
