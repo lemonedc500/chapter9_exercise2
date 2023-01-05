@@ -30,8 +30,8 @@ main {
 .step-img1{
  height:150px;
  background-image:url(img/flow01.png);
- background-position:bottom;
  background-size:cover;
+ background-position:bottom;
 }
 
 .step-img2{
@@ -73,5 +73,14 @@ header{
 
 main{
  width:100%;
+ margin:50px auto;
+ display:block;
+}
+.step-box{
+ margin:0px auto 20px;
+ width:90%;
+}
+.step-box:last-child{
+ margin:0px auto;
 }
 }
